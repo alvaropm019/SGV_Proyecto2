@@ -1,0 +1,13 @@
+Madrid LEMD Latitud: 40.466666666667 Longitud: -3.5666666666667  
+Alicante LEAL Latitud: 38.383333333333 Longitud: -0.5  
+Almeria LEAM Latitud: 36.833333333333 Longitud: -2.45  
+Barcelona LEBL Latitud: 41.3 Longitud: 2.0833333333333  
+Bilbao LEBB Latitud: 43.3 Longitud: -2.9166666666667  
+Granada LEGR Latitud: 37.133333333333 Longitud: -3.6166666666667  
+Ibiza LEIB Latitud: 38.866666666667 Longitud: 1.35  
+Murcia LELC Latitud: 37.983333333333 Longitud: -1.1166666666667  
+Santander LEXJ Latitud: 43.433333333333 Longitud: -3.8166666666667  
+Santiago LEST Latitud: 42.833333333333 Longitud: -8.55  
+Sevilla LEZL Latitud: 37.433333333333 Longitud: -5.9  
+TenerifeN GCXO Latitud: 28.497222222222 Longitud: -16.333333333333  
+Valencia LEVC Latitud: 39.490277777778 Longitud: -0.47861111111111

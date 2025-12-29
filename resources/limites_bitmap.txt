@@ -1,0 +1,4 @@
+latNorth=44.4
+latSouth=34.7
+lonEast=4.8
+lonWest=-9.9
